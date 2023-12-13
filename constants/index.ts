@@ -97,7 +97,7 @@ export const contactUs = {
       "Incubex HQ, 339, 14th B Cross Rd, Sector 7, Sector 6, HSR Layout, Bengaluru, Karnataka 560102",
     mapId:
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d359519.6375235583!2d77.45092856216044!3d12.71938380529558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15d0cd347bcb%3A0xc3d9f98436596b59!2sOkCredit!5e0!3m2!1sen!2sin!4v1701597606554!5m2!1sen!2sin",
-    googleFormLink: "https://forms.gle/zgcJ89cxwciKqfKa7",
+    googleFormLink: "https://forms.gle/Mc4scuiiyUYpN1Ao8",
   };
 
   export const buttonText = {
