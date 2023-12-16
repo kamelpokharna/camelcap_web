@@ -24,7 +24,7 @@ const TeamCard = ({
     }`}
   >
     <Image
-      className="sm:h-[180px] sm:w-[180px] h-[120px] w-[120px] lg:h-[280px] lg:w-[260px] object-cover object-center rounded-[50%] border-[3px] bg-white"
+      className="sm:h-[180px] sm:w-[180px] h-[120px] w-[120px] md:h-[280px] md:w-[280px] lg:h-[280px] lg:w-[280px] object-cover object-center rounded-[50%] border-[3px] bg-white"
       src={img}
       unoptimized
       style={imageStyle}

@@ -23,9 +23,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <meta name="msapplication-TileImage" content="../public/camel_capital_logo.png" />
       <body>
-      <meta name="msapplication-TileImage" content="../public/camel_capital_logo.png" />
         <Navbar />
         <main className="relative overflow-hidden bg-rootBackgroundColor">
           {children}

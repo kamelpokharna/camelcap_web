@@ -5,16 +5,16 @@ const FoundersMessageSection = () => {
   return (
     <section
       id="founders-message"
-      className="flex flex-col md:py-10 py-[23px]  bg-[#fff] px-5 md:h-[48vh] min-h-[280px] justify-center items-center mt-[12px]"
+      className="flex flex-col md:py-10 py-[23px]  bg-[#fff] px-5 md:h-[58vh] min-h-[280px] justify-center items-center mt-[12px]"
     >
-      <div className="fontFamilyHelveticaNeue text-center md:text-[48px] text-3xl md:pb-[40] pb-[22px] font-medium md:leading-[60px]">
+      <div className="fontFamilyAvenirNormal text-center md:text-[48px] text-3xl md:pb-[40] pb-[22px] font-medium md:leading-[60px] text-[#212121]">
         <div className="lg:px-[256px] text-center">
-          <span className="text-black ">
-            {"We back early-stage founders who are obsessed with solving"}{" "}
-          </span>
-          <span className="text-[#f18b21] ">
-          {"hard problems."}
-          </span>
+          <div className="text-black ">
+            {"We back early-stage founders who are obsessed with"}{" "}
+          </div>
+          <div className="text-[#f18b21] md:font-black">
+          {"solving hard problems."}
+          </div>
         </div>
       </div>
     </section>

@@ -140,6 +140,10 @@ body {
     font-family: Avenir, ui-sans-serif;
 }
 
+.fontFamilyAvenirNormal {
+    font-family: Avenir;
+}
+
 .fontFamilyNotoSan {
     font-family: Noto Sans;
 }

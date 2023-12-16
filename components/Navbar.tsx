@@ -24,7 +24,7 @@ const Navbar = () => {
         onClick={() => window.location.reload()}
         src={appLogo}
         alt="camel capital logo"
-        className="object-contain h-[56px] md:h-[148px] "
+        className="object-contain h-[56px] md:h-[148px] hover:text-linkColor cursor-pointer"
         unoptimized
         quality={100}
       />

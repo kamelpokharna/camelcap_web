@@ -6,7 +6,7 @@ const Hero = () => {
     // md:h-[calc(100vh-120px)] h-[calc(60vh-96px)]
     <section
       id="home"
-      className="flex flex-col py-10 bg-[#fff] md:justify-center md:items-center justify-center items-start p-[16px] md:h-[55vh] min-h-[360px]"
+      className="flex flex-col py-10 bg-[#fff] md:justify-center md:items-center justify-center items-start p-[16px] md:h-[580px] min-h-[360px]"
     >
       {/* <div className="fontFamilyHelveticaNeue md:text-[4xl] text-[48px] font-medium">
         {heroData.title}
@@ -28,11 +28,11 @@ const Hero = () => {
       </div> */}
       <div className="fontFamilyAvenir text-center md:text-3xl text-[28px] md:pb-[40] pb-[22px] font-medium">
         <div className="lg:px-[156px] md:text-center text-left md:text-[42px] text-[28px]">
-          <div className="text-[#f18b21] text-[34px] md:text-[60px] font-semibold">
+          <div className="text-[#f18b21] text-[34px] md:text-[100px] font-black fontFamilyAvenirNormal md:h-[137px] md:flex justify-center items-center">
           {"Camel Capital"}{" "}
           </div>
-          <div className="text-black text-[20px] md:text-[36px] mt-3 md:mt-[52px] fontFamilyAvenir font-extralight leading-8">{"Get funds."}</div>
-          <div className="text-black text-[20px]  fontFamilyAvenir font-extralight leading-[24px] md:text-[36px] md:leading-[40px] md:mt-[12px]">
+          <div className="text-black text-[20px] md:text-[48px] mt-3 md:mt-[24px] fontFamilyAvenir font-extralight leading-8 md:leading-[0px] md:h-[20px]">{"Get funds."}</div>
+          <div className="text-black text-[20px]  fontFamilyAvenir font-extralight leading-[24px] md:text-[48px] md:leading-[55px] md:mt-[12px] md:text-[#616161]">
             {"Get access to a network of founders, creators, leaders who have been there, done that."}
           </div>
         </div>
