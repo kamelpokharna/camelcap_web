@@ -31,7 +31,7 @@ const Hero = () => {
           <div className="text-[#f18b21] text-[34px] md:text-[60px] font-semibold">
           {"Camel Capital"}{" "}
           </div>
-          <div className="text-black text-[20px] md:text-[36px] mt-3 md:mt-[40px] fontFamilyAvenir font-extralight leading-8">{"Get funds."}</div>
+          <div className="text-black text-[20px] md:text-[36px] mt-3 md:mt-[52px] fontFamilyAvenir font-extralight leading-8">{"Get funds."}</div>
           <div className="text-black text-[20px]  fontFamilyAvenir font-extralight leading-[24px] md:text-[36px] md:leading-[40px] md:mt-[12px]">
             {"Get access to a network of founders, creators, leaders who have been there, done that."}
           </div>
