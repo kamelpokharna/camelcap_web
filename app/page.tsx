@@ -14,7 +14,7 @@ export default function Home() {
       <Hero/>
       <Portfolio/>
       <FoundersMessageSection/>
-      <Team/>
+      {/* <Team/> */}
     </>
   )
 }
